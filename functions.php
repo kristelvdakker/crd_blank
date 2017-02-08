@@ -2,7 +2,7 @@
 /**
  * @package WordPress
  * @subpackage YOUR_THEME
- * @version 0.1.0
+ * @version 0.1.1
  */
 
 add_theme_support('automatic-feed-links');
