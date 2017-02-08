@@ -2,6 +2,7 @@
 /**
  * @package WordPress
  * @subpackage YOUR_THEME
+ * @version 0.1.0
  */
 
 add_theme_support('automatic-feed-links');
@@ -11,12 +12,12 @@ add_theme_support('automatic-feed-links');
  */
 
 function wpbuild_scripts(){
-	
-	if(is_admin()){ return; }
-	
-	// Remove WP jQuery version
-	wp_deregister_script('jquery');
-	
+
+ if(is_admin()){ return; }
+
+ // Remove WP jQuery version
+ wp_deregister_script('jquery');
+
 }
 
 add_action('init', 'wpbuild_scripts');
