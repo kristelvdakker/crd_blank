@@ -14,5 +14,6 @@
     "grunt-git": "1.0.3",
     "grunt-version": "1.1.1",
     "load-grunt-tasks": "3.5.2"
-  }
+  },
+  "license": "MIT"
 }
