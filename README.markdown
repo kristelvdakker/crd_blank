@@ -1,6 +1,6 @@
 #  Blank WordPress Theme
 
-Created by Matt Vickers (http://envexlabs.com)
+A blank Wordpress starter theme.
 
 ## Usage
 
@@ -9,3 +9,7 @@ Created by Matt Vickers (http://envexlabs.com)
 	<li>Style.</li>
 	<li>Done.</li>
 </ul>
+
+## Mentions
+
+Based on a blank theme by Matt Vickers (http://envexlabs.com)
